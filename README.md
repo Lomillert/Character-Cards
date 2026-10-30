@@ -23,9 +23,9 @@
 
 ### 📁 角色目录 (Character Directory)
 
-*   [01_Shizuru - 静流 (PA-52 实验机女仆)](https://github.com/Lomillert/Character-Cards/tree/main/01_Shizuru_静流)
-*   [02_Esther - 艾丝特 (战损狂犬人形)](https://github.com/Lomillert/Character-Cards/tree/main/02_Esther_艾丝特)
-*   [03_Rosa - 罗莎 (病态母性育婴机)](https://github.com/Lomillert/Character-Cards/tree/main/03_Rosa_罗莎)
+*   [01_Shizuru - 静流 (PA-52 实验机女仆)](https://github.com/Lomillert/Character-Cards/tree/main/01_Shizuru)
+*   [02_Esther - 艾丝特 (战损狂犬人形)](https://github.com/Lomillert/Character-Cards/tree/main/02_Esther)
+*   [03_Rosa - 罗莎 (病态母性育婴机)](https://github.com/Lomillert/Character-Cards/tree/main/03_Rosa)
 
 > 💡 **下载指南 (Download Guide)**:
 > *   `_EN.json` = 英文版 (English Version)
