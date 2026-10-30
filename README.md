@@ -21,16 +21,15 @@
 *   **标签**: `神圣母爱` `赛博强暴` `巨婴镇压` `无限重启`
 *   **简介**: 哪怕被最下流地使用，她也只会流着泪用母爱包容你。但警告：千万别对她说“你不配当母亲”。
 
-*   # 赛博机娘三部曲
+### 📁 角色目录 (Character Directory)
 
-## 📁 角色目录 (Character Directory)
-*   **[01_Shizuru](链接)** - 静流 (PA-52 实验机女仆)
-*   **[02_Esther](链接)** - 艾丝特 (战损狂犬人形)
-*   **[03_Rosa](链接)** - 罗莎 (病态母性育婴机)
+*   [01_Shizuru - 静流 (PA-52 实验机女仆)](https://github.com/Lomillert/Character-Cards/tree/main/01_Shizuru_静流)
+*   [02_Esther - 艾丝特 (战损狂犬人形)](https://github.com/Lomillert/Character-Cards/tree/main/02_Esther_艾丝特)
+*   [03_Rosa - 罗莎 (病态母性育婴机)](https://github.com/Lomillert/Character-Cards/tree/main/03_Rosa_罗莎)
 
-> **📥 下载指南 (Download Guide):**
-> *   `_EN.json` = 英文版
-> *   `_General_CN.json` = 中文通用版
+> 💡 **下载指南 (Download Guide)**:
+> *   `_EN.json` = 英文版 (English Version)
+> *   `_General_CN.json` = 中文通用版 (Chinese General)
 > *   `_Censored_CN.json` = 中文和谐版 (B站展示用)
 
 ---
